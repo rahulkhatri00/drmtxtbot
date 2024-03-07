@@ -1,5 +1,5 @@
-api_id = 21640718
-api_hash = "ed92fd532921b88507ebd15be19a9a91"
-bot_token = "7141951420:AAEOD0wdzgiHBQWMwXCGk8s7b0OkoHXCnRQ"
-AUTH = 5983566944
-#Bot Username = "birrvfnbot"
+api_id = 28912814
+api_hash = "8c69efa7804f6f3eb167984e2f4cf549"
+bot_token = "6887353230:AAF15fl6V88C9AbDew_Iqi0XSQR_9OuDyhs"
+AUTH = 7140557396
+#Bot Username = "txtzndabot"
